@@ -8,7 +8,7 @@ It's an attempt to optimize the PSO to a Model Predictive Control problem.
 What's New
 ==========
 
-Variale inertia through time and more stopping criteria.
+Variable inertia through time and more early stopping criteria.
 
 Requirements
 ============
