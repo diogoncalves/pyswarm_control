@@ -25,8 +25,7 @@ and installing pyswarm.
 Contact
 =======
 
-Any feedback, questions, bug reports, or success stores should
-be sent to the `author`_. I'd love to hear from you!
+For questions about this specific package: diogo.goncalves@ua.pt
 
 License
 =======
